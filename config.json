@@ -1,0 +1,21 @@
+{
+    "token": "",
+    "prefix": ",",
+    "color": "#6861fe",
+    "pastebinapi": "sdsd",
+    "secret": "", 
+    "callback": "", 
+    "paypal": {
+        "clientId": "",
+        "clientSecret": ""
+    },
+    "servers": {
+        "6": "109.71.253.6"
+    },
+    "passwords": {
+        "6": "SzICUCN2HGkLykqo"
+    },
+    "usernames": {
+        "6": "root"
+    }
+}
